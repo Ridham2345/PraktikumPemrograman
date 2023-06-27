@@ -1,0 +1,15 @@
+#Input data dari pengguna
+nama = input("Masukan nama anda : ")
+ttl = input("Masukkan Tempat dan Tanggal Lahir: ")
+alamat = input("Masukkan Alamat: ")
+no_hp = input("Masukkan Nomor HP: ")
+program_studi = input("Masukkan Program Studi: ")
+hobi = input("Masukkan Hobi: ")
+
+print("Biodata Diri")
+print("Nama Lengkap: " + nama)
+print("Tempat dan Tanggal Lahir: " + ttl)
+print("Alamat: " + alamat)
+print("Nomor HP: " + no_hp)
+print("Program Studi: " + program_studi)
+print("Hobi: " + hobi)
